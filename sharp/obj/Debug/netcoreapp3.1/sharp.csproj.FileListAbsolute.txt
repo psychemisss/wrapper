@@ -1,0 +1,16 @@
+D:\VisualStudioProjects\sharp\bin\Debug\netcoreapp3.1\sharp.exe
+D:\VisualStudioProjects\sharp\bin\Debug\netcoreapp3.1\sharp.deps.json
+D:\VisualStudioProjects\sharp\bin\Debug\netcoreapp3.1\sharp.runtimeconfig.json
+D:\VisualStudioProjects\sharp\bin\Debug\netcoreapp3.1\sharp.runtimeconfig.dev.json
+D:\VisualStudioProjects\sharp\bin\Debug\netcoreapp3.1\sharp.dll
+D:\VisualStudioProjects\sharp\bin\Debug\netcoreapp3.1\sharp.pdb
+D:\VisualStudioProjects\sharp\obj\Debug\netcoreapp3.1\sharp.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\sharp\obj\Debug\netcoreapp3.1\sharp.Form1.resources
+D:\VisualStudioProjects\sharp\obj\Debug\netcoreapp3.1\sharp.csproj.GenerateResource.cache
+D:\VisualStudioProjects\sharp\obj\Debug\netcoreapp3.1\sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\sharp\obj\Debug\netcoreapp3.1\sharp.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\sharp\obj\Debug\netcoreapp3.1\sharp.AssemblyInfo.cs
+D:\VisualStudioProjects\sharp\obj\Debug\netcoreapp3.1\sharp.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\sharp\obj\Debug\netcoreapp3.1\sharp.dll
+D:\VisualStudioProjects\sharp\obj\Debug\netcoreapp3.1\sharp.pdb
+D:\VisualStudioProjects\sharp\obj\Debug\netcoreapp3.1\sharp.genruntimeconfig.cache
