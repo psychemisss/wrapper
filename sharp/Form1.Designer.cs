@@ -30,9 +30,6 @@ namespace sharp
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ///this.ClientSize = new System.Drawing.Size(800, 450);
-            
             this.ControlBox = false; /// Disabling a possibility to close and resize window 
             ///Если ControlBox не будет работать использовать функции ниже
             ///this.MinimizeBox = false;
@@ -40,11 +37,10 @@ namespace sharp
             this.ShowInTaskbar = false; /// Disabling visualisation in taskbar 
             this.ShowIcon = false; 
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized; /// Enables Fullscreen
-            ///this.Text = "Form1"; Disable window naming
-            this.BackgroundImage = System.Drawing.Image.FromFile(@"D:\VisualStudioProjects\sharp\ngimg.png");
-
+            this.BackgroundImage = System.Drawing.Image.FromFile(@"D:\workspace\wrapper\sharp\ngimg.png");
+            ///this.TopMost = true;
+            
         }
-
         #endregion
     }
 }
